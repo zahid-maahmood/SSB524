@@ -1,0 +1,25 @@
+
+.body{ margin: 0;
+padding: 0;
+}
+
+.first{
+    font-family: sans-serif;
+    font-size: 20px;
+    width: 60%;
+    margin: 0 auto;
+background-color: antiquewhite;
+}
+.first h1{
+text-align: center;
+}
+.first p{
+    margin: 0;
+   font-family: sans-serif;
+   font-size: 18px;
+/* text-align: center; */
+}
+.first video{ 
+    width: 100%;
+
+}
